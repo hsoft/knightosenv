@@ -1,0 +1,24 @@
+[submodule "sass"]
+	path = sass
+	url = git://github.com/KnightOS/sass.git
+[submodule "scas"]
+	path = scas
+	url = https://github.com/KnightOS/scas.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/KnightOS/kernel.git
+[submodule "mktiupgrade"]
+	path = mktiupgrade
+	url = https://github.com/KnightOS/mktiupgrade
+[submodule "mkrom"]
+	path = mkrom
+	url = https://github.com/KnightOS/mkrom
+[submodule "patchrom"]
+	path = patchrom
+	url = https://github.com/KnightOS/patchrom
+[submodule "z80e"]
+	path = z80e
+	url = https://github.com/KnightOS/z80e.git
+[submodule "genkfs"]
+	path = genkfs
+	url = https://github.com/KnightOS/genkfs.git

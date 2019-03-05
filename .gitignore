@@ -1,0 +1,5 @@
+/build
+/*.rom
+/hello/hello.bin
+/hello/debug.rom
+/hello/root
